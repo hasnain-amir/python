@@ -20,10 +20,7 @@ def split_bill(subtotal, num_friends):
 
 
 # Example usage:
-subtotal = 100.00
-num_friends = 4
+subtotal = 1000.00
+num_friends = 3
 amount = split_bill(subtotal, num_friends)
 print (f"Each friend has to pay: £{amount}")
-
-
-    
