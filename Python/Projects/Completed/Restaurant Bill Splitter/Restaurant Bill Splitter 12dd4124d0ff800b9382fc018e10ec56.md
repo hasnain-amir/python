@@ -20,10 +20,9 @@ This is my first project, it is basic. It adds the tax of the bill onto the subt
 
 # Tasks
 
-[Tasks](Restaurant%20Bill%20Splitter%2012dd4124d0ff800b9382fc018e10ec56/Untitled%2012dd4124d0ff81bd85d9c148190a5051.csv)
-
 <aside>
-<img src="https://www.notion.so/icons/subtask_lightgray.svg" alt="https://www.notion.so/icons/subtask_lightgray.svg" width="40px" />
+<img src="https://www.notion.so/icons/subtask_lightgray.svg" alt="https://www.notion.so/icons/subtask_lightgray.svg" width="40px" /> [Tasks](Restaurant%20Bill%20Splitter%2012dd4124d0ff800b9382fc018e10ec56/Untitled%2012dd4124d0ff81bd85d9c148190a5051.csv)
+
 
 Code
 
