@@ -1,12 +1,5 @@
 # Restaurant Bill Splitter
 
-Hub: Learning
-Course Name: University of Michigan Python 3 Programming Specialisation
-Deadline: October 30, 2024
-Notes: Operators and Operands (https://www.notion.so/Operators-and-Operands-12dd4124d0ff8049b8cbdd1cb0b8fdb0?pvs=21)
-Project Status: Completed
-Tasks: Restaurant Bill Splitter Project (https://www.notion.so/Restaurant-Bill-Splitter-Project-12dd4124d0ff804eaf2bd4c8bb052525?pvs=21)
-
 <aside>
 <img src="https://www.notion.so/icons/checklist_lightgray.svg" alt="https://www.notion.so/icons/checklist_lightgray.svg" width="40px" />
 
