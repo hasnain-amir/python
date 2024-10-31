@@ -16,15 +16,8 @@ This is my first project, it is basic. It adds the tax of the bill onto the subt
 - **Simple Command-Line Interface**: Designed to be user-friendly within the terminal, allowing easy interaction without the need for advanced technical skills.
 </aside>
 
-#
 
-# Tasks
-
-<aside>
-<img src="https://www.notion.so/icons/subtask_lightgray.svg" alt="https://www.notion.so/icons/subtask_lightgray.svg" width="40px" /> [Tasks](Restaurant%20Bill%20Splitter%2012dd4124d0ff800b9382fc018e10ec56/Untitled%2012dd4124d0ff81bd85d9c148190a5051.csv)
-
-
-Code
+# Code
 
 ```python
 def split_bill(subtotal, num_friends):
@@ -56,10 +49,6 @@ print (f"Each friend has to pay: £{amount}")
 
 </aside>
 
-# Notes
-
-[Untitled](Restaurant%20Bill%20Splitter%2012dd4124d0ff800b9382fc018e10ec56/Untitled%2012dd4124d0ff81268ab4d6a2577decc2.csv)
-
 # Video
 
-[https://youtu.be/4Y5dW85aTKc](https://youtu.be/4Y5dW85aTKc)
+[View in Action!](https://youtu.be/4Y5dW85aTKc)
