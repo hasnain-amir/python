@@ -13,7 +13,7 @@ This repository contains materials and projects related to my self-learning jour
 ### Project 1: Restaurant Bill Splitter
 
 This is my first project, it is basic. It adds the tax of the bill onto the subtotal, and then divides it between the number of friends. It then returns the total bill rounded to two decimal places.
-[View Project]([https://github.com/hasnain-amir/python/blob/f8989430a4a1b572c16e3a771358a603e31b99f7/Python/Projects/Completed/Restaurant%20Bill%20Splitter/Project_overview.md)
+[View Project](https://github.com/hasnain-amir/python/blob/f8989430a4a1b572c16e3a771358a603e31b99f7/Python/Projects/Completed/Restaurant%20Bill%20Splitter/Project_overview.md)
 
 ### Project 2: Simple calculator
 
