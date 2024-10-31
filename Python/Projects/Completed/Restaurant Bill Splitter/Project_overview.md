@@ -1,15 +1,5 @@
 # Restaurant Bill Splitter
 
-Hub: Learning
-Course Name: University of Michigan Python 3 Programming Specialisation
-Deadline: October 30, 2024
-Notes: Operators and Operands (https://www.notion.so/Operators-and-Operands-12dd4124d0ff8049b8cbdd1cb0b8fdb0?pvs=21)
-Project Status: Completed
-Tasks: Restaurant Bill Splitter Project (https://www.notion.so/Restaurant-Bill-Splitter-Project-12dd4124d0ff804eaf2bd4c8bb052525?pvs=21)
-
-<aside>
-<img src="https://www.notion.so/icons/checklist_lightgray.svg" alt="https://www.notion.so/icons/checklist_lightgray.svg" width="40px" />
-
 # Overview
 
 This is my first project, it is basic. It adds the tax of the bill onto the subtotal, and then divides it between the number of friends. It then returns the total bill rounded to two decimal places.
@@ -23,16 +13,7 @@ This is my first project, it is basic. It adds the tax of the bill onto the subt
 - **Simple Command-Line Interface**: Designed to be user-friendly within the terminal, allowing easy interaction without the need for advanced technical skills.
 </aside>
 
-#
-
-# Tasks
-
-[Tasks](Restaurant%20Bill%20Splitter%2012dd4124d0ff800b9382fc018e10ec56/Untitled%2012dd4124d0ff81bd85d9c148190a5051.csv)
-
-<aside>
-<img src="https://www.notion.so/icons/subtask_lightgray.svg" alt="https://www.notion.so/icons/subtask_lightgray.svg" width="40px" />
-
-Code
+# Code
 
 ```python
 def split_bill(subtotal, num_friends):
@@ -62,12 +43,6 @@ amount = split_bill(subtotal, num_friends)
 print (f"Each friend has to pay: £{amount}")
 ```
 
-</aside>
-
-# Notes
-
-[Untitled](Restaurant%20Bill%20Splitter%2012dd4124d0ff800b9382fc018e10ec56/Untitled%2012dd4124d0ff81268ab4d6a2577decc2.csv)
-
 # Video
 
-[https://youtu.be/4Y5dW85aTKc](https://youtu.be/4Y5dW85aTKc)
+[See it in Action!](https://youtu.be/4Y5dW85aTKc)
